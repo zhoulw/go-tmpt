@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0be05747-2bb5-41fe-8dd6-3c63dbd150ad" name="192.168.56.106">
+        <fileTransfer rootFolder="/root/gopath/src/helloworld" accessType="SFTP" host="192.168.56.106" port="22" sshConfigId="6483beb5-4395-4582-9c83-4bb03b48f094" sshConfig="root@192.168.56.106:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
